@@ -18,7 +18,7 @@ const NetBalance = ({ entries }) => {
         netBalance >= 0 ? "text-accent" : "text-secondary"
       }`}
     >
-      ${netBalance.toFixed(2)}
+      ₹{netBalance.toFixed(2)}
     </p>
   </div>
   

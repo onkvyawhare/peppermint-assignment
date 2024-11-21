@@ -18,7 +18,7 @@ const App = () => {
     <div className="min-h-screen bg-gray-50 p-6">
   <div className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg p-6">
     <h1 className="text-3xl font-bold text-primary mb-4 text-center">
-      Expense Tracker
+      Expense Tracker Application
     </h1>
     <NetBalance entries={entries} />
       <AddEntryForm addEntry={addEntry} />
