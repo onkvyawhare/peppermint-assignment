@@ -27,7 +27,7 @@ Follow these steps to run the application locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/onkvyawhare/peppermint-assignment
    cd expense-tracker
 
 2.npm install
