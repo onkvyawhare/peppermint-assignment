@@ -16,8 +16,7 @@ An intuitive and beautifully styled expense tracker to manage your income and ex
 
 ## Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS
-- **Backend**: (Optional) Node.js with Express.js for persistence
+- **Frontend**: React.js, Tailwind css
 - **Icons**: Heroicons
 - **State Management**: React State and Context API
 
